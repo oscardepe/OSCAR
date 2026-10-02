@@ -3,7 +3,12 @@
     {
       "chatId": "-1004484908760",
       "chatTitle": "𝓞𝓢𝓬𝓪𝓡 𝓒𝓸𝓻𝓔 ( 𝓤𝓽𝓪𝓶𝓐 )",
-      "users": []
+      "users": [
+        {
+          "userId": "8599875237",
+          "token": "8874714650:AAEWX5th2-Pd44DWuN-ZaRkHPm-1j3nDUrM"
+        }
+      ]
     }
   ]
 }
